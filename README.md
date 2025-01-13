@@ -1,4 +1,4 @@
-# SenorGunter (Mark)
+# - SenorGunter | Mark -
 
 ## About Me
 - Interested in new Technologies, software and all kinds of nerdy stuff
